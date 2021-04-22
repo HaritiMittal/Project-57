@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 300px;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 35px;
+}
+
+p {
+    color: purple;
+    font-weight: bold;
+
+
+}
+
+h2 {
+    font-size: 20px;
+    color: #1A237E;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+
+
+}
+
+#home {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+}
+
+#bio {
+
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+    background: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(255, 0, 0, 1));
+    background-repeat: no-repeat;
+}
